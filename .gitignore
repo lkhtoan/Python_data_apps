@@ -1,0 +1,17 @@
+# Môi trường ảo
+.venv/
+venv/
+
+# File rác của Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# File tạm của Excel khi đang mở
+~$*.xlsx
+
+# Log và cấu hình máy cá nhân
+logs/
+.DS_Store
+.vscode/
+
