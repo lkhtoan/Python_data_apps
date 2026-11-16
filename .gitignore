@@ -9,6 +9,7 @@ __pycache__/
 
 # File tạm của Excel khi đang mở
 ~$*.xlsx
+*.xlsx
 
 # Log và cấu hình máy cá nhân
 logs/
