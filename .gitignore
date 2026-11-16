@@ -7,9 +7,10 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# File tạm của Excel khi đang mở
+# File tạm của Excel khi đang mở, thư mục chứa file của Excel
 ~$*.xlsx
 *.xlsx
+xlsx/
 
 # Log và cấu hình máy cá nhân
 logs/
