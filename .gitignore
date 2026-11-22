@@ -12,6 +12,14 @@ __pycache__/
 *.xlsx
 xlsx/
 
+# Thư mục dữ liệu tự sinh từ các bài thực hành (tự tạo lại khi chạy code)
+du_lieu_chi_nhanh/
+du_lieu_nang_cao/
+bao_cao_tach_don_vi/
+
+# File log tự sinh khi chạy chương trình
+*.log
+
 # Log và cấu hình máy cá nhân
 logs/
 .DS_Store
