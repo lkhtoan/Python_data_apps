@@ -10,6 +10,7 @@ __pycache__/
 # File tạm của Excel khi đang mở, thư mục chứa file của Excel
 ~$*.xlsx
 *.xlsx
+*.csv
 xlsx/
 
 # Thư mục dữ liệu tự sinh từ các bài thực hành (tự tạo lại khi chạy code)
