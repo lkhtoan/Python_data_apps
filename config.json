@@ -1,0 +1,33 @@
+{
+    "app_settings": {
+        "page_title": "Hệ thống Quản lý & Điều phối Kiểm kê Tài sản",
+        "page_icon": "🏦",
+        "banner_title": "🏦 Trạm Điều Phối & Xử Lý Báo Cáo Kiểm Kê (Bản Cấu Hình Động)",
+        "default_sample": true
+    },
+    "schema": {
+        "required_cols": [
+            "Ma_TS",
+            "Ten_TS",
+            "So_luong",
+            "Gia_tri"
+        ],
+        "column_mapping": {
+            "Mã TS": "Ma_TS",
+            "Mã tài sản": "Ma_TS",
+            "Tên TS": "Ten_TS",
+            "Tên tài sản": "Ten_TS",
+            "Số lượng": "So_luong",
+            "Nguyên giá": "Gia_tri",
+            "Giá trị": "Gia_tri",
+            "Đơn vị": "Don_Vi",
+            "Phòng ban": "Don_Vi"
+        }
+    },
+    "excel_style": {
+        "header_bg_color": "00685E",
+        "header_text_color": "FFFFFF",
+        "font_name": "Arial",
+        "currency_format": "#,##0\" VNĐ\""
+    }
+}
